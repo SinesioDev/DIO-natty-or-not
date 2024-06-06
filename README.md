@@ -4,7 +4,19 @@
     src="https://github.com/SinesioDev/DIO-natty-or-not/blob/main/cape.png?raw=true"
     width="500"
 />
+
+<a href="https://on.soundcloud.com/D7NDayiKUoeCVnYv8" rel="nofollow">
+    <img src="https://github.com/SinesioDev/DIO-natty-or-not/blob/main/play.png" width="100"
+    alt="Clique aqui para ouvir o Podcast" style="max-width: 100%;">
+  </a>
+  
+<p align="center" dir="auto">
+      
+  
+
+  
    
+https://github.com/SinesioDev/DIO-natty-or-not/blob/main/play.png
 
 https://on.soundcloud.com/D7NDayiKUoeCVnYv8
 
